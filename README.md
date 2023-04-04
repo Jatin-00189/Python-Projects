@@ -8,8 +8,8 @@ During my 1.5 years in this field, I have gained experience working with a varie
 
 In addition to my professional experience, I am always looking to improve my skills and stay up-to-date with the latest cybersecurity trends and techniques. I am passionate about cybersecurity and I spend my free time experimenting with new tools, participating in online security communities, and contributing to open-source projects.
 
-I Created these projects while learning python for cybersecurity
-This is a very basics chat program using Socket in python3
+I Created these projects while learning python for cybersecurity.                                                                      
+#This is a very basics chat program using Socket in python3
 
 
 
