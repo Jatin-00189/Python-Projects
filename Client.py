@@ -17,7 +17,7 @@ while True:
     print("[+] Server sent you :  ",server_data.decode())
 
 client.close()
-print("kat Gya")
+print("Client Disconnected")
 
 
 
