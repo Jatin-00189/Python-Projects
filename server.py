@@ -6,13 +6,13 @@ server_socket.bind(("127.0.0.1",4441))
 
 server_socket.listen(10)
 
-print("Server is listning here 127.0.0.1:9000........")
+print("Server is listning here 127.0.0.1:4441........")
 
 while True:
 
     connection,address = server_socket.accept()
 
-    print("Ban Gya")
+    print("[+] Got Connection from {}".format(address))
 
     while True:
 
